@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6579ad3a-095c-408e-9752-365543474b90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZo5VVTqgrvDmEPwIaOOUqLrAL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="OnlineShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.OnlineShop" />
+      <module name="hw10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlineShop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6579ad3a-095c-408e-9752-365543474b90" name="Default Changelist" comment="" />
+      <created>1583159293507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583159293507</updated>
+      <workItem from="1583159298087" duration="10191000" />
+      <workItem from="1583309216326" duration="8405000" />
+      <workItem from="1583317725268" duration="1207000" />
+      <workItem from="1583332560828" duration="4010000" />
+      <workItem from="1583424331728" duration="4391000" />
+      <workItem from="1583473420682" duration="43000" />
+      <workItem from="1583573866160" duration="4609000" />
+      <workItem from="1583662021408" duration="2846000" />
+      <workItem from="1583683418308" duration="1725000" />
+      <workItem from="1583729224998" duration="12371000" />
+      <workItem from="1583768781774" duration="4803000" />
+      <workItem from="1583779084033" duration="5625000" />
+      <workItem from="1583845426873" duration="6480000" />
+      <workItem from="1583920940162" duration="564000" />
+      <workItem from="1583942942457" duration="52000" />
+      <workItem from="1584436493475" duration="1092000" />
+      <workItem from="1584518924152" duration="2964000" />
+      <workItem from="1584521902907" duration="4132000" />
+      <workItem from="1584780233073" duration="4999000" />
+      <workItem from="1585124148205" duration="4702000" />
+      <workItem from="1585237018250" duration="5523000" />
+      <workItem from="1585289523499" duration="7635000" />
+      <workItem from="1585386398785" duration="970000" />
+      <workItem from="1585475214537" duration="3983000" />
+      <workItem from="1585480392275" duration="4413000" />
+      <workItem from="1585554668622" duration="3025000" />
+      <workItem from="1585561822626" duration="5437000" />
+      <workItem from="1585568263858" duration="194000" />
+      <workItem from="1585594299691" duration="1744000" />
+      <workItem from="1585644403844" duration="1548000" />
+      <workItem from="1585730021374" duration="2382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Inspections" timestamp="1585480425251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1585480425251" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1583159855123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583159855123" />
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1585124705378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585124705378" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1585563298143">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585563298143" />
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1585732414567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585732414567" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1585732414567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585732414567" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1585732414567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585732414567" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1585732414567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585732414567" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1585732414567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585732414567" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1585732414567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585732414567" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1585732414567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585732414567" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1585732414567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585732414567" />
+    <state x="332" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583769464826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="332" y="152" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1583769464826" />
+    <state x="499" y="186" key="extract.method.dialog" timestamp="1583336195937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="186" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1583336195937" />
+    <state x="209" y="39" key="new project wizard" timestamp="1583942985510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="39" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1583942985510" />
+    <state x="477" y="47" key="refactoring.ChangeSignatureDialog" timestamp="1583739016922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="47" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1583739016922" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583782238048">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583782238048" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main/OnlineShop.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main/OnlineShop.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
